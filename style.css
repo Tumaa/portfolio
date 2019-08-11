@@ -21,3 +21,18 @@
     height: 150px;
     border-radius: 65%;
 }
+.credetial{
+    float: right;
+    margin-right: 25%;
+}
+.cred{
+    margin-top: 5%
+}
+.arrow{
+    width: 100px;
+    height:  50px;
+    margin-top: 35%;
+}
+h1,h3{
+    margin-top: 10%;
+}
