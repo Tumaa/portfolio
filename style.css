@@ -1,8 +1,10 @@
 .sect-1{
-    background-image: url('https://images.pexels.com/photos/96858/pexels-photo-96858.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500');
+    background-image: url('https://images.pexels.com/photos/433604/pexels-photo-433604.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     height: 95vh;
     text-align: center;
+    font-family: 'Kanit', sans-serif;
+
 }
