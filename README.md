@@ -1,5 +1,5 @@
-# TRIANGLE-DETERMINER
-#### By **HUSSEIN KADWEKA KATANA**
+# PORTIFOLIO
+#### By **FATUMA ALI**
 
 
 
@@ -8,11 +8,12 @@
 + css
 
 ## Link to the live deployed site::
-+ 
++
+
 ### contacts
-+ husseinkatana17@gmail.com
-+ 0772328059
++ ramanfatuu@gmail.com
++ 070000000
 
 ### MIT License
 
-+ https://github.com/hussein18149/TRIANGLE-TRACKER/blob/master/LICENSE
++
