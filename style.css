@@ -1,5 +1,5 @@
 .sect-1{
-    background-image: url('https://images.pexels.com/photos/433604/pexels-photo-433604.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500');
+    background-image: url('https://images.pexels.com/photos/34676/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -12,8 +12,8 @@
     height: 400px;
 }
 .imge2{
-    width: 300px;
-    height: 250px;
+    width: 75%;
+    height: 20%;
 }
 .cred{
     margin-top: 5%;
@@ -33,4 +33,33 @@
     width: 100px;
     height:  50px;
     margin-top: 35%;
+}
+* {
+    box-sizing: border-box;
+  }
+  
+  .column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+  
+  .row::after {
+    /* content: ""; */
+    align-content: center;
+    clear: both;
+    display: table;
+  }
+  #center {
+    display: block;
+    margin-left: 2%;
+    margin-right: auto;
+    text-align: center;
+  }
+h1{
+    text-align: center;
+}
+.hobby,.code{
+top: 10%;
+text-align: center;
 }
